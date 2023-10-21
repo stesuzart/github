@@ -1,6 +1,7 @@
 ## Arquivo de Contato do GitHub
+
 -------- Exemplo para preenchimento --------
 
-Nome:
+Nome: Fernanda
 
-User:
+User: @fernanda-reis
