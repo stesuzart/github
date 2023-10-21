@@ -1,6 +1,6 @@
 ## Arquivo de Contato do GitHub
 -------- Exemplo para preenchimento --------
 
-Nome:
+Nome: Raquel Caroline Thiengo
 
-User:
+User: /CarolThiengo
