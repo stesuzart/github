@@ -5,6 +5,12 @@
 Nome: Thaís Dourado
 User: /tdthais
 
+Nome: Stephannie
+User: /stesuzart
+
+Nome: Karen Lima
+User: /karenCLima
+
 Nome: Luciana Oliveira 
 User: /lucianasfoliveira
 
