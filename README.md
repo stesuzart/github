@@ -1,6 +1,10 @@
 ## Arquivo de Contato do GitHub
 -------- Exemplo para preenchimento --------
 
+
+Nome: Thaís Dourado
+User: /tdthais
+
 Nome: Stephannie
 User: /stesuzart
 
@@ -24,4 +28,3 @@ User: /nataliagiacobo
 
 Nome: Juliana
 User: /julianaando
-
