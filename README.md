@@ -4,6 +4,9 @@
 Nome: Stephannie
 User: /stesuzart
 
+Nome: Karen Lima
+User: /karenCLima
+
 Nome: Luciana Oliveira 
 User: /lucianasfoliveira
 
@@ -18,3 +21,4 @@ User:Ar3secchim
 
 Nome: Natalia Giacobo Rohr
 User: /nataliagiacobo
+
