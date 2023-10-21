@@ -5,6 +5,9 @@
 Nome: Juliana
 User: /julianaando
 
+Nome: Stephannie
+User: /stesuzart
+
 Nome: Karen Lima
 User: /karenCLima
 
@@ -22,5 +25,3 @@ User:Ar3secchim
 
 Nome: Natalia Giacobo Rohr
 User: /nataliagiacobo
-
-
