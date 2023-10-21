@@ -26,6 +26,4 @@ Nome: Natalia Giacobo Rohr
 User: /nataliagiacobo
 
 >>>>>>> 12c89afa55fcc0b2a4e336d78916397135f20ea5
-=======
-User: /nataliagiacobo
->>>>>>> b451a1a2fdaf4abad0bd1077d97904b578ef385a
+
