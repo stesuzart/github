@@ -4,6 +4,9 @@
 Nome: Juliana
 User: /julianaando
 
+Nome: Karen Lima
+User: /karenCLima
+
 Nome: Luciana Oliveira 
 User: /lucianasfoliveira
 
