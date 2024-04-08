@@ -1,5 +1,4 @@
 # Exercício GitHub
 -----
-Nome: Stephannie Suzart
-github: /stesuzart
+Nome: Stephannie Suzart - github: /stesuzart
 
