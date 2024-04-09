@@ -15,5 +15,9 @@ github: /akaori
 Nome: Ana Clara Barbeta
 github: /acbarbeta
 
+Nome: Maynara Nachbar
+github: /MayNachbar
+
 Nome: Aline Werner
 github: /rewenila
+
