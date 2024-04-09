@@ -14,3 +14,6 @@ github: /akaori
 
 Nome: Ana Clara Barbeta
 github: /acbarbeta
+
+Nome: Adilane Pereira Borges Fernandes
+github: /adilanefernandes
