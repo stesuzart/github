@@ -3,6 +3,9 @@
 Nome: Stephannie Suzart
 github: /stesuzart
 
+Nome: Milena Lara
+github: /milenalara
+
 Nome: Elisa Souza
 github: /ElisaSouzaaa
 
@@ -14,3 +17,7 @@ github: /acbarbeta
 
 Nome: Maynara Nachbar
 github: /MayNachbar
+
+Nome: Aline Werner
+github: /rewenila
+
