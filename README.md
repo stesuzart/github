@@ -3,7 +3,6 @@
 Nome: Stephannie Suzart
 github: /stesuzart
 
------
 Nome: Larissa Nogueira
 github: /nogueirarissa
 
@@ -47,7 +46,11 @@ github : /yelalopez
 Nome: Suelen Silva
 github: /suersil
 
+Nome: Melissa Pereira
+github: /MelissaNP
 
+Nome: Vivian Panizzi
+github: /vivianpanizzi
 
 Nome: Isabel Kodama
 github: /isabelkodama
