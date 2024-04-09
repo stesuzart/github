@@ -51,3 +51,6 @@ github: /MelissaNP
 
 Nome: Vivian Panizzi
 github: /vivianpanizzi
+
+Nome: Isabel Kodama
+github: /isabelkodama
