@@ -19,8 +19,6 @@ github: /akaori
 Nome: Ana Clara Barbeta
 github: /acbarbeta
 
-
-
 Nome: Bianca Fonseca
 github: /fonseca-bianca
 
@@ -41,4 +39,5 @@ Nome: Aline Werner
 github: /rewenila
 
 
-
+Nome: Nathalya Lucena
+github: /nalucena
