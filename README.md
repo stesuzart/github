@@ -49,3 +49,5 @@ github: /suersil
 Nome: Melissa Pereira
 github: /MelissaNP
 
+Nome: Vivian Panizzi
+github: /vivianpanizzi
