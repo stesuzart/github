@@ -18,3 +18,13 @@ github: /acbarbeta
 Nome: Graziella Guedes
 github: /grazie-lla
 
+Nome: Gabriela Visani
+github: /gabiwvisani
+
+Nome: Maynara Nachbar
+github: /MayNachbar
+
+Nome: Aline Werner
+github: /rewenila
+
+
