@@ -14,3 +14,6 @@ github: /akaori
 
 Nome: Ana Clara Barbeta
 github: /acbarbeta
+
+Nome: Gabriela Visani
+github: /gabiwvisani
