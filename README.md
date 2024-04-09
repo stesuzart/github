@@ -3,6 +3,10 @@
 Nome: Stephannie Suzart
 github: /stesuzart
 
+-----
+Nome: Larissa Nogueira
+github: /nogueirarissa
+
 Nome: Milena Lara
 github: /milenalara
 
@@ -17,3 +21,15 @@ github: /acbarbeta
 
 Nome: Adilane Pereira Borges Fernandes
 github: /adilanefernandes
+
+Nome: Graziella Guedes
+github: /grazie-lla
+
+Nome: Gabriela Visani
+github: /gabiwvisani
+
+Nome: Maynara Nachbar
+github: /MayNachbar
+
+Nome: Aline Werner
+github: /rewenila
