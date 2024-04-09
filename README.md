@@ -15,6 +15,9 @@ github: /akaori
 Nome: Ana Clara Barbeta
 github: /acbarbeta
 
+Nome: Graziella Guedes
+github: /grazie-lla
+
 Nome: Gabriela Visani
 github: /gabiwvisani
 
@@ -23,4 +26,5 @@ github: /MayNachbar
 
 Nome: Aline Werner
 github: /rewenila
+
 
