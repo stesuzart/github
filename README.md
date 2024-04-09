@@ -19,11 +19,15 @@ github: /akaori
 Nome: Ana Clara Barbeta
 github: /acbarbeta
 
+Nome: Bianca Fonseca
+github: /fonseca-bianca
+
 Nome: Adilane Pereira Borges Fernandes
 github: /adilanefernandes
 
 Nome: Graziella Guedes
 github: /grazie-lla
+
 
 Nome: Gabriela Visani
 github: /gabiwvisani
@@ -33,6 +37,7 @@ github: /MayNachbar
 
 Nome: Aline Werner
 github: /rewenila
+
 
 Nome: Nathalya Lucena
 github: /nalucena
